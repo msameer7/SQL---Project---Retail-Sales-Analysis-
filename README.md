@@ -25,7 +25,7 @@ Count Customers: Found out how many different customers made purchases.
 
 List Categories: Listed all the different product categories.
 
-Fix Missing Data: Found and removed rows that had empty or missing values.
+Fix Missing Data: This Dataset doesn't contain any missing values.
 
 ## Step 3: Finding Answers with SQL
 Check a Day’s Sales: Got all sales made on 2022-11-05.
